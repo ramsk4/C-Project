@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp3
 {
-    internal class FizzBuzzProgram
+    internal class LogicalPrograms
     {
         public static void FizzBuzz()
         {
@@ -67,3 +67,4 @@ namespace ConsoleApp3
         }
     }
 }
+
